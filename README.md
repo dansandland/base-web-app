@@ -1,5 +1,4 @@
-# base-web-app
-Base web app for Rust web projects.
+# Base web app for Rust web projects.
 
 Use `cargo run` to start the web server.
 ```
